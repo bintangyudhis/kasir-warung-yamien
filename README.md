@@ -57,6 +57,10 @@ Aplikasi dapat dibuka di `http://127.0.0.1:8000`. Pengguna yang belum login diar
 
 Callback pembayaran Midtrans diarahkan ke endpoint `/midtrans/callback`.
 
+## Tangkapan Layar
+
+![Tangkapan layar halaman utama](docs/screenshot.png)
+
 ## Lisensi
 
 Proyek ini memakai lisensi MIT. Lihat berkas [LICENSE](LICENSE).
